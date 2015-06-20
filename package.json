@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "GulpJS usage example",
   "author": "Eren Hatırnaz <erenhatirnaz@atinasoft.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
 }
